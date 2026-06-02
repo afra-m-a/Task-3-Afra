@@ -1,4 +1,3 @@
-```markdown
 # ThreatScope // Malicious Email Analyzer
 
 **Advanced Heuristic Threat Assessment & Triage Engine**
@@ -142,7 +141,3 @@ Distributed under the **MIT License**. Free for educational training, defensive 
 ---
 
 **Stay vigilant. Stay secure.** *ThreatScope // Malicious Email Analyzer*
-
-```
-
-```
