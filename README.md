@@ -34,7 +34,7 @@
 phishing-triage-toolkit/
 ├── gui.py          # Main application file containing all parsing, scoring, and UI layout logic
 ├── main.py         # Application entry point that initializes and launches the GUI
-├── parser.py       # (Reference Module) Advanced Right-to-Left URL and homoglyph parsing logic
+├── parser.py       # (Reference Module) Advanced homoglyph parsing logic
 └── triage.py       # (Reference Module) Separated technical risk metric weighting arrays
 
 ```
